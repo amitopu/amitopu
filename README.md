@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @amitopu
-- 👀 I’m interested in Python, ML/DL, Django, React
-- 🌱 I know Python, Javascript, C++, Django, HTML, CSS, Bootstrap, Jquery
-- 🌱 I’m currently learning and playing with React, Django, ML
-- 💞️ I’m looking to collaborate on any ML project so I can learn with practical implementation of ML in real world projects
+- 👀 I’m interested in Python, ML/DL, Django, React, Node, DevOps
+- 🌱 I know Python, Javascript, C++, Django, HTML, CSS, Bootstrap, React, Node, MongoDB
+- 🌱 I’m currently learning and playing with React, Node, Django, ML
+- 💞️ I’m looking to collaborate on any ML project so I can learn with practical implementation of ML
 - 📫 How to reach me ...
       linkedin - https://www.linkedin.com/in/nasiddikyr/
 
